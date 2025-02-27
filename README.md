@@ -2,7 +2,8 @@
 Repository for basic pygame Asteroids game
 
 TODO:
-
+    
+    Add starting screen
     Add a scoring system
     Implement multiple lives and respawning
     Add an explosion effect for the asteroids
@@ -16,3 +17,7 @@ TODO:
     Add a speed power-up
     Add bombs that can be dropped
     Add sound
+
+Changelog:
+
+    0.2 - refactored code, added "game over" screen, added replayability without having to relaunch.
